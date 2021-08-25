@@ -26,7 +26,7 @@
 <Folder><name>googleC</name>
   <Placemark>
 	<ExtendedData><SchemaData schemaUrl="#googleC">
-	<description>
+	
 		<SimpleData name="Mensaje">[28/10/20 15:57:49] +52 55 3038 6236: SE RENTA SAN MIGUEL CHAPULTEPEC CASA PARA OFICINAS  400 MTS DE CONSTRUCCION  280 MTS DE TERRENO  AMPLIO ESPACIO LIBRE EN LA PLANTA BAJA CON COCINA GRANDE  8 Privados  4.5 Banos  Garage Techado para 3 autos grandes BO</SimpleData>
 		<SimpleData name="Fecha">28/10/20 15:57:49</SimpleData>
 		<SimpleData name="Celulares">+52 55 3038 6236</SimpleData>
@@ -34,14 +34,14 @@
 		<SimpleData name="Renta/Vent">Renta</SimpleData>
 		<SimpleData name="M2">400.000000000000000</SimpleData>
 		<SimpleData name="Banos">4.500000000000000</SimpleData>
-		<SimpleData name="Zona">CONDESA</SimpleData>
+		<SimpleData name="Zona"><description>CONDESA</description></SimpleData>
 		<SimpleData name="Delegacion">CUAUHTEMOC</SimpleData>
 		<SimpleData name="Caracteris">TERRAZA</SimpleData>
 		<SimpleData name="Chat">BIG BEN ZONA CENTRO</SimpleData>
 		<SimpleData name="ZonaJuntas">CONDESA</SimpleData>
 		<SimpleData name="Latitud">19.411196000000000</SimpleData>
 		<SimpleData name="Longitud">-99.179689999999994</SimpleData>
-	</description>
+	
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.17969,19.411196</coordinates></Point>
   </Placemark>
