@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
 <Schema name="googleC" id="googleC">
-<description>
 	<SimpleField name="Mensaje" type="string"></SimpleField>
 	<SimpleField name="Fecha" type="string"></SimpleField>
 	<SimpleField name="Celulares" type="string"></SimpleField>
@@ -23,12 +22,11 @@
 	<SimpleField name="ZonaJuntas" type="string"></SimpleField>
 	<SimpleField name="Latitud" type="float"></SimpleField>
 	<SimpleField name="Longitud" type="float"></SimpleField>
-</description>
 </Schema>
 <Folder><name>googleC</name>
   <Placemark>
 	<ExtendedData><SchemaData schemaUrl="#googleC">
-	<description>
+	<Description>
 		<SimpleData name="Mensaje">[28/10/20 15:57:49] +52 55 3038 6236: SE RENTA SAN MIGUEL CHAPULTEPEC CASA PARA OFICINAS  400 MTS DE CONSTRUCCION  280 MTS DE TERRENO  AMPLIO ESPACIO LIBRE EN LA PLANTA BAJA CON COCINA GRANDE  8 Privados  4.5 Banos  Garage Techado para 3 autos grandes BO</SimpleData>
 		<SimpleData name="Fecha">28/10/20 15:57:49</SimpleData>
 		<SimpleData name="Celulares">+52 55 3038 6236</SimpleData>
@@ -43,7 +41,7 @@
 		<SimpleData name="ZonaJuntas">CONDESA</SimpleData>
 		<SimpleData name="Latitud">19.411196000000000</SimpleData>
 		<SimpleData name="Longitud">-99.179689999999994</SimpleData>
-	</description>
+	</Description>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-99.17969,19.411196</coordinates></Point>
   </Placemark>
